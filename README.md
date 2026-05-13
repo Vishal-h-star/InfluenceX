@@ -2,6 +2,12 @@
 
 A Next.js 14 (App Router) marketing site for an influencer marketing agency. Includes a MongoDB-backed contact form, Tailwind styling, and a violet brand system.
 
+## Deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FVishal-h-star%2FInfluenceX&env=MONGODB_URI&envDescription=MongoDB%20connection%20string%20used%20by%20the%20contact%20form%20API%20route&envLink=https%3A%2F%2Fwww.mongodb.com%2Fatlas&project-name=influencex&repository-name=influencex)
+
+Click the button, sign in to Vercel, then paste your `MONGODB_URI` when prompted. Vercel will provision the project, build it, and give you a live URL.
+
 ## Stack
 
 - Next.js 14 (App Router)
