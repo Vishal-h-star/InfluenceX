@@ -245,7 +245,7 @@ export default function HomePage() {
               Recent work
             </span>
             <h2 className="mt-4 text-3xl sm:text-4xl font-extrabold tracking-tight">
-              Creators we've put on screen.
+              Creators we&apos;ve put on screen.
             </h2>
             <p className="mt-4 text-white/70">
               A snapshot of recent collaborations from across our network.
